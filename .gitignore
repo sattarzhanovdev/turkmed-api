@@ -1,4 +1,8 @@
 # Django #
+*.env
+bin/
+lib/
+*.sqlite3
 *.log
 *.pot
 *.pyc
