@@ -90,8 +90,7 @@ TEMPLATES = [
     },
 ]
 
-# WSGI_APPLICATION = 'core.wsgi.application'
-WSGI_APPLICATION = 'vercel_app.wsgi.app'
+WSGI_APPLICATION = 'core.wsgi.application'
 
 
 # Database
